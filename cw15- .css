@@ -1,0 +1,45 @@
+body{
+    background:linear-gradient(to right, rgb(255, 191, 201), rgb(253, 205, 189), rgb(221, 170, 255)) ;
+    text-align: center;
+}
+h1{
+    color: rgb(180, 92, 107);
+    font-size: 55px;
+    background-color: antiquewhite;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.item{
+    background-color: rgb(252, 239, 255);
+     border-radius: 8px;
+     padding: 20px;
+     margin: 10px;
+width: 600px;
+height: 1000px;
+text-align: center; 
+}
+img{
+    width: 97%;
+    height: 55%;
+}
+footer{
+    font-size: 30px;
+    color: blueviolet;
+background-color: rgb(250, 215, 245);
+}
+h2{
+    color: rgb(149, 34, 95);
+}
+p{
+    color: rgb(157, 14, 71);
+    font-size: 20px;
+}
+h3{
+    color: darkmagenta;
+}
+label{
+    color: hotpink;
+}
